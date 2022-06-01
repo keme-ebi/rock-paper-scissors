@@ -31,3 +31,6 @@ while True:
     if play_again != "yes":
         break
 print("See you soon, bye...")
+
+
+player_input = input()
